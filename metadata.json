@@ -1,0 +1,7 @@
+{
+  "name": "CS 1.6 Launcher",
+  "description": "Customizable landscape app launcher with loading screen, secure login authentication, custom picture backgrounds, and target app teleporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
